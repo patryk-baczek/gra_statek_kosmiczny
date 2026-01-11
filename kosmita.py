@@ -8,7 +8,7 @@ class Kosmita:
         self.obrazek = pygame.transform.scale(self.obrazek, (60, 60))
 
         self.rect = self.obrazek.get_rect(center=(x, y))
-        self.predkosc = 1
+        self.predkosc = 2
         self.kierunek = random.choice([-1, 1])
         self.szerokosc_okna = szerokosc_okna
 
