@@ -31,3 +31,11 @@ Tło gry przedstawia **kosmos pełen gwiazd**, co nadaje całości klimatu stary
   <img src="./screenshots/screen2.png" width="250">
   <img src="./screenshots/screen3.png" width="250">
 </p>
+
+## 🚀 Jak uruchomić
+
+1. Zainstaluj Pythona 3.10 lub nowszego
+2. Zainstaluj zależności:
+
+```bash
+pip install -r requirements.txt
